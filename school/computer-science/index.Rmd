@@ -10,5 +10,6 @@
 ---
 
 ## CSC 246
+### January
 [01/07/2020](./opsys/notes/010720.Rmd)
 
