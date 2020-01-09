@@ -5,12 +5,14 @@
 ## CSC 236
 
 ### January
-[01/06/2020](./notes/010620.md)
+[01/06/2020](./assembly/notes/010620.Rmd)
 
 ---
 
 ## CSC 246
+[01/07/2020](./opsys/notes/010720.Rmd)
 
 
 
 [Index](../../index.md)
+[index](../../../index.html)
