@@ -2,10 +2,12 @@
 
 ## Gauss-Jordan Elimination
 
+### Find the solution to the following
 \begin{equation}
     \begin{cases} 
-      -x_{1}  +  4x_{2} +  4x_{3} =  -4\\
-      -x_{1}  - x_{3} =  0 
+      -x_{1}  &+  &4x_{2} &+  &4x_{3} &=  &-4\\
+      -x_{1}  &&& - &2x_{3} &=  &0\\ 
+      -3x_{1} &&& - &4x_{3} &= &-4
     \end{cases}
 \end{equation}
 
@@ -17,3 +19,35 @@ A =
 7 & 8 & 9
 \end{pmatrix}
 \end{equation*}
+
+#### Problem: Solve Ax = b
+
+\begin{equation*}
+A = 
+\begin{pmatrix}
+-1 & 4 & -4 \\
+-1 & 0 & -2 \\
+-3 & 0 &-4 
+\end{pmatrix}
+\end{equation*}
+
+\begin{equation*}
+b = 
+\begin{pmatrix}
+-4\\
+0\\
+-4
+\end{pmatrix}
+\end{equation*}
+
+We're trying to find:
+\begin{equation*}
+x = 
+\begin{pmatrix}
+x_{1}\\
+x_{2}\\
+x_{3}
+\end{pmatrix}
+\end{equation*}
+
+
