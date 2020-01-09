@@ -12,7 +12,3 @@
 ## CSC 246
 [01/07/2020](./opsys/notes/010720.Rmd)
 
-
-
-[Index](../../index.md)
-[index](../../../index.html)

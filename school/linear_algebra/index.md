@@ -1,8 +1,0 @@
----
-# Linear Algebra
----
-
-
-### January
-Gauss-Jordan Elmination
-  - [01/07/2020](./notes/010720.html)
