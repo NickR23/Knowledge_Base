@@ -1,0 +1,9 @@
+1. Nicholas Richardson
+2. I have read all of the policies int the syllabus including grading and academic integrity and they were very cool.
+3. I understand that to recieve help on code I have written, I must provide meaningful documentation in the code. If requested I will provide a high level design in C or Java.
+4. I understand that issues with old test questions can be answered by entering the question into a program, assembling it and looking at the listing file or by using a debugger. This process will make me a programming god and I am very excited about this.
+5. They would expect the program to print "40000"
+6. The number will be negative. This "negative-ness" of this number will depend on the system you run it on. (At least in the case of C). 
+7. I got -25536.
+8. Nope, no warning. The machine was just doing what we told it to do!
+9. What happened was an integer overflow. Say we had a buffer of 3 bits with the value: 011 (3 in decimal). The last number is what tells the machine if the number is positive or negative. When we increment the buffer, that last bit is set to 1, making the buffer read: 100. This incidently is zero, but when we add one more we get "101". This is "read" as -1 by the machine, giving us an overflowed integer. The max value for a short is like 15 bits (2^15 - 1) = 32767. We subtract one for that first negative bit flag thingy. So when we store 40000 in the short it overflows and we should get something negative.

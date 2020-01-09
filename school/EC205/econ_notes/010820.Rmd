@@ -1,0 +1,38 @@
+# 01/08/20
+
+[*Economy*](https://www.investopedia.com/terms/e/economy.asp) - The economy is the mechanism through which resource use is organized to satisfy the desires of people living together in a society.
+
+In a economy decisions must be made to determine:
+
+  1. **WHAT** will be produced
+  2. **HOW** will it be produced
+  3. **TO WHOM** will it be distributed
+
+### The process of production
+
+Inputs -> Production -> Outputs
+
+**Capital**: Means to produce goods
+
+
+## Economic Models
+
+* An economic model is a means of explaining how a sector of the economy functions.*
+
+Models consist of:
+
+  1. Economic Variables
+  2. Assumptions
+  3. Implications
+
+Economic models are abstractions that use logic to establish cause-and-effect  relationships among economic variables.
+
+## Production Possibility Curve
+
+```{r pressure, echo=FALSE, out.width = '40%'}
+knitr::include_graphics("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F67%2FProduction_Possibilities_Frontier_Curve.svg%2F1200px-Production_Possibilities_Frontier_Curve.svg.png&f=1&nofb=1")
+```
+
+Because some resources are specialized, the opportunity cost of each additional unit of output increases as more of a good is produced over a given period.
+
+The "bowed in" shape of the production possibilities curve reflects the law of increasing costs.

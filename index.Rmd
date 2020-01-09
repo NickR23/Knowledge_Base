@@ -1,0 +1,13 @@
+---
+title: My Knowledge Base
+author: Nick Richardson
+output: html_document
+---
+    > This is a collection of things that I know,
+    > things that I learn,
+    > and things I want to remember
+
+### School
+  - [Computer Science](school/computer-science/index.html) 
+  - [Econ](school/EC205/index.html)
+  - [Linear Algebra](school/linear_algebra/index.html)
